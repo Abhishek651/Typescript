@@ -16,10 +16,10 @@ A structured collection of TypeScript projects to build practical skills through
 
 ## How to Use
 
-1. Complete projects in order.
-2. Read the challenge statement.
+1. Complete projects in order
+2. Read the challenge statement
 3. Build the solution
-4. Revisit completed projects for revision.
+4. Revisit completed projects for revision
 
 ## Goal
 
