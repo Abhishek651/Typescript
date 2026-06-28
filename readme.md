@@ -6,7 +6,7 @@ A structured collection of TypeScript projects to build practical skills through
 
 | #  | Project              | Focus                                       |
 | -- | -------------------- | ------------------------------------------- |
-| 01 | Student Management   | Types, Interfaces, Functions, CRUD          |
+| 01 | Student Management   | Types, Interfaces, Functions, Arrays, Optional Parameters, `void`, Type Narrowing, CRUD |
 | 02 | Banking System       | Classes, Enums, Error Handling              |
 | 03 | Inventory Management | Utility Types, Dynamic Objects              |
 | 04 | Generic Data Store   | Generics                                    |

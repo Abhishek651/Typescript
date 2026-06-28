@@ -4,7 +4,8 @@
   "description": "A structured collection of TypeScript projects to build practical skills through real-world challenges.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "ts-node-dev --respawn \"Projects/Student Management System/src/index.ts\""
   },
   "repository": {
     "type": "git",
